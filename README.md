@@ -1,6 +1,6 @@
 # Acoustic vibrations of material layer FEM solution
 
-Project presents the solution of the acoustic vibrations of material layer in Matlab, using finite elements method (FEM).
+Project presents the solution of the acoustic vibrations of material layer in Matlab, using finite elements method (FEM) with Cauchy and Dirichlet boundary conditions and Gaussian quadrature for numerical integration.
 This was made on Differential and difference equations course at AGH.
 
 # The task (in Polish)
